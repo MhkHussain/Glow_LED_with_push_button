@@ -1,7 +1,7 @@
 # Glow_LED_with_push_button
 
 ## Components:
-- LED 
+- LED Light
 - Resistors (220 ohms for LED, 10K ohms for Push Button)
 - Push Button of two or four Legs
 - Male to Male Jumper Wires
